@@ -4,7 +4,7 @@
 
 ### &nbsp;About Me:
 
-I am a Systems Engineering student in my 7th semester,<br>
+I am a Systems Engineering student in my 8th semester,<br>
 and a passionate Frontend Developer constantly learning and improving.<br>
 I specialize in web and mobile development, bringing ideas to life through code.<br>
 Beyond programming, I enjoy exploring new technologies and creative solutions.
